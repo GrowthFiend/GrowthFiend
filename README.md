@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sergey Morozov
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
+- 👀 I’m interested in C++ and Rust
+- 🌱 I’m currently learning Godot
+- 💞️ I’m looking to collaborate on C++, Rust or Godot
 - 📫 How to reach me growthfiend@gmail.com
 
 <!---
